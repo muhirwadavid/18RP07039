@@ -16,7 +16,7 @@ In mygame/server/ place:     Server.java
 In mygame/shared/ place:      Utilities.java 
 
 
-c) yes,
+c) yes, you need to add import statement client.java, server.java, shared.java .you need to report
 
 
 d)
